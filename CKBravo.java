@@ -7,7 +7,7 @@ import robocode.*;
 /**
  * CKAlpha - a robot by (your name here)
  */
-public class CKAlpha extends BravoBot
+public class CKBravo extends BravoBot
 {
 	/**
 	 * run: CKAlpha's default behavior
